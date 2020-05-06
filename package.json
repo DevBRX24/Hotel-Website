@@ -1,0 +1,14 @@
+{
+  "name": "trillo",
+  "version": "1.0.0",
+  "description": "Hotel Reservation built using HTML,CSS and SASS",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w sass -o dist/css --recursive"
+  },
+  "author": "Brix Gavarra",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^4.14.0"
+  }
+}
